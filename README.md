@@ -9,7 +9,7 @@ The project was developed by a team of people with the same cultural background 
 - Kun Zhang
 - Mei Yu
 
-We co-operated throughout all phases of the project and distributed the development tasks in a balanced way.
+
 
 
 ## Project Overview
